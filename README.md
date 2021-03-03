@@ -1,5 +1,8 @@
 # Leetcode-Exercises
-Leetcode Exercises for programming capability improvement
+Leetcode Exercises for programming capability improvement. Anyone is welcome to refer to my solution. Thank you~ 
+
+## Acknowledgements
+[LeetCode](https://leetcode-cn.com/)
 
 ## Basic Exercises
 *To be updated*
