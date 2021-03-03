@@ -23,4 +23,10 @@ Implement the ``NumArray`` class:
 ### Idea
 Use **Dynamic programing(DP)** to solve the problem.
 
-**DP** require ``O(n)`` time for initialization and ``O(n)`` space for storing the created array ``self.sums``, but query time becomes ``O(1)``.
+**DP** requires ``O(n)`` time for initialization and ``O(n)`` space for storing the created array ``self.sums``, but query time becomes ``O(1)``.
+
+## Code
+[303 - Range Sum Query - Immutable](https://github.com/0oTedo0/Leetcode-Exercises/blob/main/Daily%20Exercises/Mar%202021/2021-03-01/303%20-%20Range%20Sum%20Query%20-%20Immutable.py)
+
+
+
