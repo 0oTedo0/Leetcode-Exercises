@@ -9,3 +9,8 @@ class NumArray:
 
     def sumRange(self, i, j):
         return self.sums[j + 1] - self.sums[i]
+
+    
+# Your NumArray object will be instantiated and called as such:
+# obj = NumArray(nums)
+# param_1 = obj.sumRange(i,j)
