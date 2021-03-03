@@ -1,7 +1,8 @@
 class NumArray:
 
     def __init__(self, nums):
-        self.sums = [0]
+        self.sums = [0]  # An array that contains prefix sum
+                         # self.nums[i]=sum(nums[0:i])
 
         for num in nums:
             self.sums.append(self.sums[-1] + num)
