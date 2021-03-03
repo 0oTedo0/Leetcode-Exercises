@@ -29,7 +29,7 @@ Output
 
 [null, 1, -1, -3]
 
-Explanatio
+Explanation
 
 NumArray numArray = new NumArray([-2, 0, 3, -5, 2, -1]);
 numArray.sumRange(0, 2); // return 1 ((-2) + 0 + 3)
