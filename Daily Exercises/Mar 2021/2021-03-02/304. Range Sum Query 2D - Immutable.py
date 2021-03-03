@@ -13,6 +13,6 @@ class NumMatrix:
         return self.sums[row2+1][col+1]-self.sums[row1][col2+1]-self.sums[row2+1][col1]+self.sums[row1][col1]  # Compute the sum of values by the same method above
       
       
-# Your NumArray object will be instantiated and called as such:
-# obj = NumArray(nums)
-# param_1 = obj.sumRange(i,j)
+# Your NumMatrix object will be instantiated and called as such:
+# obj = NumMatrix(matrix)
+# param_1 = obj.sumRegion(row1,col1,row2,col2)
