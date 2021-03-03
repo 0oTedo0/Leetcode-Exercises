@@ -42,5 +42,9 @@ Use **Dynamic programing(DP)** to solve the problem.
 
 **DP** requires ``O(mn)`` time for initialization and ``O(mn)`` space for storing the created array ``self.sums``, but query time becomes ``O(1)``.
 
+### Key formula
+
+<img width="600" height="300" src="https://assets.leetcode-cn.com/solution-static/304/1.png"/>
+
 ## Code
 [304. Range Sum Query 2D - Immutable](https://github.com/0oTedo0/Leetcode-Exercises/blob/main/Daily%20Exercises/Mar%202021/2021-03-02/304.%20Range%20Sum%20Query%202D%20-%20Immutable.py)
