@@ -11,3 +11,8 @@ class NumMatrix:
 
     def sumRegion(self, row1, col1, row2, col2):
         return self.sums[row2+1][col+1]-self.sums[row1][col2+1]-self.sums[row2+1][col1]+self.sums[row1][col1]  # Compute the sum of values by the same method above
+      
+      
+# Your NumArray object will be instantiated and called as such:
+# obj = NumArray(nums)
+# param_1 = obj.sumRange(i,j)
