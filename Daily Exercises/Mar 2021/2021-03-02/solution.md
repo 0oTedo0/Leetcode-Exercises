@@ -7,50 +7,40 @@
 
 ## Problem:
 
-Given an integer array ``nums``, find the sum of the elements between indices ``i`` and ``j`` ``(i ≤ j)``, inclusive.
+Given a 2D matrix matrix, find the sum of the elements inside the rectangle defined by its upper left corner ``(row1, col1)`` and lower right corner ``(row2, col2)``.
 
+<img width="150" height="150" src="https://assets.leetcode-cn.com/aliyun-lc-upload/images/304.png"/>
 
-Implement the ``NumArray`` class:
-
-
-``NumArray(int[] nums)`` Initializes the object with the integer array nums.
-
-``int sumRange(int i, int j)`` Return the sum of the elements of the ``nums`` array in the range ``[i,j]`` inclusive (i.e., ``sum(nums[i], nums[i + 1], ... , nums[j])``)
+The above rectangle (with the red border) is defined by (row1, col1) = **(2, 1)** and (row2, col2) = **(4, 3)**, which contains sum = 8.
 
 ### Example 1
 
 ```
-Input
-["NumArray", "sumRange", "sumRange", "sumRange"]
+Given matrix = [
+  [3, 0, 1, 4, 2],
+  [5, 6, 3, 2, 1],
+  [1, 2, 0, 1, 5],
+  [4, 1, 0, 1, 7],
+  [1, 0, 3, 0, 5]
+]
 
-[[[-2, 0, 3, -5, 2, -1]], [0, 2], [2, 5], [0, 5]]
-
-Output
-
-[null, 1, -1, -3]
-
-Explanatio
-
-NumArray numArray = new NumArray([-2, 0, 3, -5, 2, -1]);
-numArray.sumRange(0, 2); // return 1 ((-2) + 0 + 3)
-numArray.sumRange(2, 5); // return -1 (3 + (-5) + 2 + (-1)) 
-numArray.sumRange(0, 5); // return -3 ((-2) + 0 + 3 + (-5) + 2 + (-1))
+sumRegion(2, 1, 4, 3) -> 8
+sumRegion(1, 1, 2, 2) -> 11
+sumRegion(1, 2, 2, 4) -> 12
 ```
 
-### Constraints:
+### Note
 
-* 0 <= ``nums.length`` <= 104
-* -105 <= ``nums[i]`` <= 105
-* 0 <= i <= j < ``nums.length``
-* At most 104 calls will be made to sumRange.
-
+* You may assume that the matrix does not change.
+* There are many calls to sumRegion function.
+* You may assume that row1 ≤ row2 and col1 ≤ col2.
 
 ## Solution
 
 ### Idea
 Use **Dynamic programing(DP)** to solve the problem.
 
-**DP** requires ``O(n)`` time for initialization and ``O(n)`` space for storing the created array ``self.sums``, but query time becomes ``O(1)``.
+**DP** requires ``O(mn)`` time for initialization and ``O(mn)`` space for storing the created array ``self.sums``, but query time becomes ``O(1)``.
 
 ## Code
-[303 - Range Sum Query - Immutable](https://github.com/0oTedo0/Leetcode-Exercises/blob/main/Daily%20Exercises/Mar%202021/2021-03-01/303%20-%20Range%20Sum%20Query%20-%20Immutable.py)
+[304. Range Sum Query 2D - Immutable](https://github.com/0oTedo0/Leetcode-Exercises/blob/main/Daily%20Exercises/Mar%202021/2021-03-02/304.%20Range%20Sum%20Query%202D%20-%20Immutable.py)
