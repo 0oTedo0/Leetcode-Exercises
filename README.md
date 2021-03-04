@@ -5,7 +5,7 @@ Leetcode Exercises for programming capability improvement. Anyone is welcome to 
 [LeetCode](https://leetcode-cn.com/)
 
 ## Basic Exercises
-*To be updated*
+***Updating***
 
 ## Daily Exercises
 
