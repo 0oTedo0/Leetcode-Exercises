@@ -5,7 +5,7 @@
 [304. Range Sum Query 2D - Immutable](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)
 
 
-## Problem:
+## Problem
 
 Given a 2D matrix matrix, find the sum of the elements inside the rectangle defined by its upper left corner ``(row1, col1)`` and lower right corner ``(row2, col2)``.
 
