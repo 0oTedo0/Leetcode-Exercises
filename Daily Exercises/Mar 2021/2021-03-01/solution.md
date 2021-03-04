@@ -37,7 +37,7 @@ numArray.sumRange(2, 5); // return -1 (3 + (-5) + 2 + (-1))
 numArray.sumRange(0, 5); // return -3 ((-2) + 0 + 3 + (-5) + 2 + (-1))
 ```
 
-### Constraints:
+### Constraints
 
 * 0 <= ``nums.length`` <= 104
 * -105 <= ``nums[i]`` <= 105
