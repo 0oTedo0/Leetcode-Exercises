@@ -4,6 +4,10 @@ Leetcode Exercises for programming capability improvement. Anyone is welcome to 
 ## Acknowledgements
 [LeetCode](https://leetcode-cn.com/)
 
+## Language
+
+The programming language is **Python 3** by default, but can be **C++** if otherwise specified.
+
 ## Basic Exercises
 ***Updating***
 
