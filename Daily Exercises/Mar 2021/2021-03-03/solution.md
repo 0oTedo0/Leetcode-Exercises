@@ -58,4 +58,4 @@ Use **Dynamic programing(DP)** and **bit operation** to solve the problem.
   bits[101000100]=bits[101000000]+1
   ```
 ## Code
-[304. Range Sum Query 2D - Immutable](https://github.com/0oTedo0/Leetcode-Exercises/blob/main/Daily%20Exercises/Mar%202021/2021-03-02/304.%20Range%20Sum%20Query%202D%20-%20Immutable.py)
+[338. Counting Bits](https://github.com/0oTedo0/Leetcode-Exercises/blob/main/Daily%20Exercises/Mar%202021/2021-03-03/338.%20Counting%20Bits.py)
