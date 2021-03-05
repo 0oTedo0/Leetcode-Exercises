@@ -9,15 +9,15 @@ class Solution:
         a=l1
         b=l2
         t=0
-        h=ListNode(0)
+        h=ListNode(0)  # A fake list head
         na=h
         while(a or b):
             va,a=(a.val,a.next) if a else (0,a)
             vb,b=(b.val,b.next) if b else (0,b)
-            new=va+vb+t
+            new=va+vb+t  # Compute
             new,t=(new,0) if new<10 else (new-10,1)
-            node=ListNode(new)
-            na.next,na=node,node
+            node=ListNode(new)  # Create
+            na.next,na=node,node  # Link
         if t==1:
             node=ListNode(1)
             na.next=node
