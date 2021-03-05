@@ -14,7 +14,7 @@ public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         ListNode *a=l1,*b=l2;
         int va,vb,newv,t=0;
-        auto h= new ListNode(0);
+        auto h= new ListNode(0);  // A fake List head
         auto na=h;
         while(a!=nullptr or b!=nullptr){
             if(a!=nullptr){
@@ -29,15 +29,15 @@ public:
             }else{
                 vb=0;
             }
-            newv=va+vb+t;
+            newv=va+vb+t;  // Commpute
             if(newv<10){
                 t=0;
             }else{
                 t=1;
                 newv=newv-10;
             }
-            auto node=new ListNode(newv);
-            na->next=node;
+            auto node=new ListNode(newv);  // Create
+            na->next=node;  // Link
             na=node;
         }
         if(t==1){
