@@ -25,3 +25,10 @@ This is the summary of LeetCode exercises in March 2021.
 [354. Russian Doll Envelopes](https://leetcode-cn.com/problems/russian-doll-envelopes/)
 
 **Idea**: DP(LIS)
+
+
+## Task 03-05
+
+[232. Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
+
+**Idea**: Data structure
