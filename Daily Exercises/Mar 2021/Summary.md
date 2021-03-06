@@ -31,4 +31,10 @@ This is the summary of LeetCode exercises in March 2021.
 
 [232. Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
 
-**Idea**: Data structure
+**Idea**: Data structure: stack & queue
+
+## Task 03-06
+
+[503. Next Greater Element II](https://leetcode-cn.com/problems/next-greater-element-ii/)
+
+**Idea**: Data structure: monotonic stack
