@@ -49,5 +49,8 @@ Make use of the transition formula ``array[l][r] = (s[l] == s[r]) and array[l+1]
 
 Process in a certain order, otherwise it will cause fatal error.
 
+### Advanced Solution
+Please refer to [LeetCode official solution](https://leetcode-cn.com/problems/longest-palindromic-substring/solution/zui-chang-hui-wen-zi-chuan-by-leetcode-solution/)
+
 ## Code
 [5. Longest Palindromic Substring](https://github.com/0oTedo0/Leetcode-Exercises/blob/main/Basic%20Exercises/Normal/5.%20Longest%20Palindromic%20Substring/5.%20Longest%20Palindromic%20Substring.py)
