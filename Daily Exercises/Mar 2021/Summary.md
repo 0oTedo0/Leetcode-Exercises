@@ -38,3 +38,9 @@ This is the summary of LeetCode exercises in March 2021.
 [503. Next Greater Element II](https://leetcode-cn.com/problems/next-greater-element-ii/)
 
 **Idea**: Data structure: monotonic stack
+
+## Task  03-07
+
+[131. Palindrome Partitioning](https://leetcode-cn.com/problems/palindrome-partitioning/)
+
+**Idea**: DP & Backtracking DFS
