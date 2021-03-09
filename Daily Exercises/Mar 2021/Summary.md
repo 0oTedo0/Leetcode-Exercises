@@ -50,3 +50,9 @@ This is the summary of LeetCode exercises in March 2021.
 [132. Palindrome Partitioning II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/)
 
 **Idea**: DP
+
+## Task 03-09 (Easy)
+
+[1047. Remove All Adjacent Duplicates In String](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)
+
+**Idea**: Data structure: stack
