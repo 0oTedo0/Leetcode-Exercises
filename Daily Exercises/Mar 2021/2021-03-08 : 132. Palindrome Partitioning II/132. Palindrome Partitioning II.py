@@ -1,5 +1,5 @@
 class Solution:
-    def minCut(self, s: str) -> int:
+    def minCut(self, s):
         n = len(s)
         f = [[True] * n for _ in range(n)]  # f(i,j) stands for whether s[i:j+1] is a palindrome
 
