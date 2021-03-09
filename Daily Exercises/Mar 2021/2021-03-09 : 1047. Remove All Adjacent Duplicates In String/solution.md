@@ -35,4 +35,5 @@ Use **Stack** to solve the problem
 
 ## Code
 [1047. Remove All Adjacent Duplicates In String.cpp](https://github.com/0oTedo0/Leetcode-Exercises/blob/main/Daily%20Exercises/Mar%202021/2021-03-09%20:%201047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp)
+
 [1047. Remove All Adjacent Duplicates In String.py](https://github.com/0oTedo0/Leetcode-Exercises/blob/main/Daily%20Exercises/Mar%202021/2021-03-09%20:%201047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py)
