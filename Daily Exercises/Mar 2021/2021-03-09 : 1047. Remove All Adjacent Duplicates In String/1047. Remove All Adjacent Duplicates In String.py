@@ -1,5 +1,5 @@
 class Solution:
-    def removeDuplicates(self, S: str) -> str:
+    def removeDuplicates(self, S):
         stack=list()  # use list as a stack
         for item in S:
             if stack and stack[-1]==item:
