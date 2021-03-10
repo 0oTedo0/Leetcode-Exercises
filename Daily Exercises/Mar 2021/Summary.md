@@ -56,3 +56,9 @@ This is the summary of LeetCode exercises in March 2021.
 [1047. Remove All Adjacent Duplicates In String](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)
 
 **Idea**: Data structure: stack
+
+## Task  03-10 (Hard)
+
+[224. Basic Calculator](https://leetcode-cn.com/problems/basic-calculator/)
+
+**Idea**: Data structure: stack
