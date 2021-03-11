@@ -62,3 +62,9 @@ This is the summary of LeetCode exercises in March 2021.
 [224. Basic Calculator](https://leetcode-cn.com/problems/basic-calculator/)
 
 **Idea**: Data structure: stack
+
+## Task  03-11 (Normal)
+
+[224. Basic Calculator](https://leetcode-cn.com/problems/basic-calculator/)
+
+**Idea**: Data structure: stack
