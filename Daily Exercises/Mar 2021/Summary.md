@@ -68,3 +68,9 @@ This is the summary of LeetCode exercises in March 2021.
 [224. Basic Calculator](https://leetcode-cn.com/problems/basic-calculator/)
 
 **Idea**: Data structure: stack
+
+## Task  (Normal)
+
+[331. Verify Preorder Serialization of a Binary Tree](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)
+
+**Idea**: Data structure: stack
