@@ -69,8 +69,14 @@ This is the summary of LeetCode exercises in March 2021.
 
 **Idea**: Data structure: stack
 
-## Task  (Normal)
+## Task  03-12 (Normal)
 
 [331. Verify Preorder Serialization of a Binary Tree](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)
 
 **Idea**: Data structure: stack
+
+## Task 03-13 (Easy)
+
+[705. Design HashSet](https://leetcode-cn.com/problems/design-hashset/)
+
+**Idea**: Hash
