@@ -57,5 +57,5 @@ A simple has function is ``mod`` function.
 Collision problem is solved by a ``list``. That is, all elements having the same hash value are put into a list together.
 
 ## Code
-[705. Design HashSe](https://github.com/0oTedo0/Leetcode-Exercises/blob/main/Daily%20Exercises/Mar%202021/2021-03-13%20:%20705.%20Design%20HashSet/705.%20Design%20HashSet.py)
+[705. Design HashSet](https://github.com/0oTedo0/Leetcode-Exercises/blob/main/Daily%20Exercises/Mar%202021/2021-03-13%20:%20705.%20Design%20HashSet/705.%20Design%20HashSet.py)
 
