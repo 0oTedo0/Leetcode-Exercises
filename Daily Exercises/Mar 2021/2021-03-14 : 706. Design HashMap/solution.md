@@ -40,7 +40,7 @@ myHashMap.get(2);    // return -1 (i.e., not found), The map is now [[1,1]]
 
 ### Constraints
 
-* 0 <= ``key, value`` <= 106
+* 0 <= ``key, value`` <= 10<sup>6</sup>
 * At most 104 calls will be made to put, get, and remove.
  
 
