@@ -80,3 +80,9 @@ This is the summary of LeetCode exercises in March 2021.
 [705. Design HashSet](https://leetcode-cn.com/problems/design-hashset/)
 
 **Idea**: Hash
+
+## Task 03-14 (Easy)
+
+[706. Design HashMap](https://leetcode-cn.com/problems/design-hashmap/)
+
+**Idea**: Hash
