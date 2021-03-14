@@ -40,7 +40,7 @@ myHashSet.contains(2); // return False, (already removed)
 
 ### Constraints
 
-* 0 <= ``key`` <= 106
+* 0 <= ``key`` <= 10<sup>6</sup>
 * At most 104 calls will be made to add, remove, and contains.
  
 
