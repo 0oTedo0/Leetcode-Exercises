@@ -31,7 +31,10 @@ class MyHashSet:
 # obj.remove(key)
 # param_3 = obj.contains(key)
 
-"""Since it does not put a constraint on space complexity, there is another method which requires more space but performs fast"""
+"""
+Since it does not put a constraint on space complexity,
+there is another method which requires more space but performs fast.
+"""
 
 """
 class MyHashSet:
