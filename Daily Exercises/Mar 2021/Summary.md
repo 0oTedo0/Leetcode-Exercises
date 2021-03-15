@@ -86,3 +86,9 @@ This is the summary of LeetCode exercises in March 2021.
 [706. Design HashMap](https://leetcode-cn.com/problems/design-hashmap/)
 
 **Idea**: Hash
+
+## Task 03-15 (Normal)
+
+[54. Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/)
+
+**Idea**: Path simulation
