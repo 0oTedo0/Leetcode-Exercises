@@ -92,3 +92,9 @@ This is the summary of LeetCode exercises in March 2021.
 [54. Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/)
 
 **Idea**: Path simulation
+
+## Task 03-16 (Normal)
+
+[59. Spiral Matrix II](https://leetcode-cn.com/problems/spiral-matrix-ii/)
+
+**Idea**: Path simulation
