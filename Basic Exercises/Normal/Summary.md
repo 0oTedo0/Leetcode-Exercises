@@ -19,3 +19,10 @@ This is the summary of basic LeetCode exercises.
 [5. Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 
 **Idea**: DP
+
+## Task 6
+
+[6. ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/)
+
+
+**Idea**: Path simulation
