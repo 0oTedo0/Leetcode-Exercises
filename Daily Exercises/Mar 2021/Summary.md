@@ -98,3 +98,9 @@ This is the summary of LeetCode exercises in March 2021.
 [59. Spiral Matrix II](https://leetcode-cn.com/problems/spiral-matrix-ii/)
 
 **Idea**: Path simulation
+
+## Task 03-17 (Hard)
+
+[115. Distinct Subsequences](https://leetcode-cn.com/problems/distinct-subsequences/)
+
+**Idea**: DP
