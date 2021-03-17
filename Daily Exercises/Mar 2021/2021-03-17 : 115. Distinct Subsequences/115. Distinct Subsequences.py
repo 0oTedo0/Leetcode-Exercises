@@ -1,5 +1,5 @@
 class Solution:
-    def numDistinct(self, s: str, t: str) -> int:
+    def numDistinct(self, s, t):
         m, n = len(s), len(t)
         if m < n:
             return 0
