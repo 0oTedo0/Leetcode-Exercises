@@ -6,7 +6,7 @@ Leetcode Exercises for programming capability improvement. Anyone is welcome to 
 
 ## Language
 
-The programming language is **Python 3** by default, but can be **C++** if otherwise specified.
+The programming language is **Python 3** by default, but can be **C++** or **Java** if otherwise specified.
 
 ## Basic Exercises
 ***Updating***
