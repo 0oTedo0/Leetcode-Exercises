@@ -1,5 +1,5 @@
 class Solution:
-    def generateMatrix(self, n: int) -> List[List[int]]:
+    def generateMatrix(self, n):
         ans=[[0]*n for _ in range(n)]
         point=[0,0]
         increment=[0,1]
