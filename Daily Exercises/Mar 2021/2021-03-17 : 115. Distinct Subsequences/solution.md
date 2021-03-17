@@ -61,3 +61,5 @@ The transform formula is:
 
 [115. Distinct Subsequences.py](https://github.com/0oTedo0/Leetcode-Exercises/blob/main/Daily%20Exercises/Mar%202021/2021-03-17%20:%20115.%20Distinct%20Subsequences/115.%20Distinct%20Subsequences.py)
 
+[115. Distinct Subsequences.java](https://github.com/0oTedo0/Leetcode-Exercises/blob/main/Daily%20Exercises/Mar%202021/2021-03-17%20:%20115.%20Distinct%20Subsequences/115.%20Distinct%20Subsequences.java)
+
