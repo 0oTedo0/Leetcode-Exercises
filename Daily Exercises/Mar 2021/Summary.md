@@ -104,3 +104,9 @@ This is the summary of LeetCode exercises in March 2021.
 [115. Distinct Subsequences](https://leetcode-cn.com/problems/distinct-subsequences/)
 
 **Idea**: DP
+
+## Task 03-18 (Normal)
+
+[92. Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
+
+**Idea**: (Double) pointers
