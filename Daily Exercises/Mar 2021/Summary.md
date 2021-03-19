@@ -110,3 +110,9 @@ This is the summary of LeetCode exercises in March 2021.
 [92. Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
 
 **Idea**: (Double) pointers
+
+## Task 03-19 (Easy)
+
+[1603. Design Parking System](https://leetcode-cn.com/problems/design-parking-system/)
+
+**Idea**: Simulation
