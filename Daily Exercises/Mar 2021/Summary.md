@@ -116,3 +116,9 @@ This is the summary of LeetCode exercises in March 2021.
 [1603. Design Parking System](https://leetcode-cn.com/problems/design-parking-system/)
 
 **Idea**: Simulation
+
+## Task 03-20 (Normal)
+
+[150. Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
+
+**Idea**: Data structure: stack
