@@ -122,3 +122,9 @@ This is the summary of LeetCode exercises in March 2021.
 [150. Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
 
 **Idea**: Data structure: stack
+
+## Task 03-21 (Normal)
+
+[73. Set Matrix Zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes/)
+
+**Idea**: In-place operation
