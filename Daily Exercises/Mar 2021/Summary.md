@@ -129,7 +129,7 @@ This is the summary of LeetCode exercises in March 2021.
 
 **Idea**: In-place operation
 
-## Task 03-21 (Easy)
+## Task 03-22 (Easy)
 
 [191. Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/)
 
