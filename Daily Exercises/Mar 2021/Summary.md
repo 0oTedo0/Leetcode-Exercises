@@ -128,3 +128,9 @@ This is the summary of LeetCode exercises in March 2021.
 [73. Set Matrix Zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes/)
 
 **Idea**: In-place operation
+
+## Task 03-21 (Easy)
+
+[191. Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/)
+
+**Idea**: Bit operation
