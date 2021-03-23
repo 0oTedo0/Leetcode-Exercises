@@ -134,3 +134,9 @@ This is the summary of LeetCode exercises in March 2021.
 [191. Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/)
 
 **Idea**: Bit operation
+
+## Task 03-23 (Normal)
+
+[341. Flatten Nested List Iterator](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)
+
+**Idea**: Data structure: stack or DFS
