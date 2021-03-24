@@ -140,3 +140,9 @@ This is the summary of LeetCode exercises in March 2021.
 [341. Flatten Nested List Iterator](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)
 
 **Idea**: Data structure: stack or DFS
+
+## Task 03-24 (Normal)
+
+[456. 132 Pattern](https://leetcode-cn.com/problems/132-pattern/)
+
+**Idea**: Data structure: monotonic stack
