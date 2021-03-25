@@ -146,3 +146,10 @@ This is the summary of LeetCode exercises in March 2021.
 [456. 132 Pattern](https://leetcode-cn.com/problems/132-pattern/)
 
 **Idea**: Data structure: monotonic stack
+
+## Task 03-25 (Normal)
+
+[82. Remove Duplicates from Sorted List II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
+
+
+**Idea**: Recursion
