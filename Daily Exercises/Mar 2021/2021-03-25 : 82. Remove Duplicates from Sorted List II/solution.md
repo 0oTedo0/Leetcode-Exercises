@@ -10,7 +10,7 @@ Given the ``head`` of a sorted linked list, delete all nodes that have duplicate
 leaving only distinct numbers from the original list. Return the linked list **sorted** as well.
 
 ### Example 1
-<img width="150" height="150" src="https://assets.leetcode.com/uploads/2021/01/04/linkedlist1.jpg"/>
+<img width="500" height="150" src="https://assets.leetcode.com/uploads/2021/01/04/linkedlist1.jpg"/>
 
 ```
 Input: head = [1,2,3,3,4,4,5]
@@ -18,7 +18,7 @@ Output: [1,2,5]
 ```
 
 ### Example 2
-<img width="150" height="150" src="https://assets.leetcode.com/uploads/2021/01/04/linkedlist2.jpg"/>
+<img width="350" height="150" src="https://assets.leetcode.com/uploads/2021/01/04/linkedlist2.jpg"/>
 
 ```
 Input: head = [1,1,1,2,3]
