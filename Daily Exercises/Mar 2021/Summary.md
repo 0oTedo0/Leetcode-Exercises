@@ -151,5 +151,10 @@ This is the summary of LeetCode exercises in March 2021.
 
 [82. Remove Duplicates from Sorted List II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
 
+**Idea**: Recursion
+
+## Task 03-26 (Easy)
+
+[83. Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
 
 **Idea**: Recursion
