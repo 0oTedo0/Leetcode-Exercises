@@ -158,3 +158,10 @@ This is the summary of LeetCode exercises in March 2021.
 [83. Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
 
 **Idea**: Recursion
+
+
+## Task 03-27 (Normal)
+
+[61. Rotate List](https://leetcode-cn.com/problems/rotate-list/)
+
+**Idea**: (Double) pointers
