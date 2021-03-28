@@ -165,3 +165,10 @@ This is the summary of LeetCode exercises in March 2021.
 [61. Rotate List](https://leetcode-cn.com/problems/rotate-list/)
 
 **Idea**: (Double) pointers
+
+
+## Task 03-28 (Normal)
+
+[173. Binary Search Tree Iterator](https://leetcode-cn.com/problems/binary-search-tree-iterator/)
+
+**Idea**: Data structure: stack
