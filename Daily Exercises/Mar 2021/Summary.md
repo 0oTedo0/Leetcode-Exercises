@@ -172,3 +172,9 @@ This is the summary of LeetCode exercises in March 2021.
 [173. Binary Search Tree Iterator](https://leetcode-cn.com/problems/binary-search-tree-iterator/)
 
 **Idea**: Data structure: stack
+
+## Task 03-29 (Easy)
+
+[190. Reverse Bits](https://leetcode-cn.com/problems/reverse-bits/)
+
+**Idea**: Bit operation
