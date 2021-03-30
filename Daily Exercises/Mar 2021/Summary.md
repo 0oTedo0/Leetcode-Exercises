@@ -178,3 +178,9 @@ This is the summary of LeetCode exercises in March 2021.
 [190. Reverse Bits](https://leetcode-cn.com/problems/reverse-bits/)
 
 **Idea**: Bit operation
+
+## Task 03-30 (Normal)
+
+[74. Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/)
+
+**Idea**: Bisection
