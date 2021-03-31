@@ -30,7 +30,6 @@ The programming language is **Python 3** by default, but can be **C++** or **Jav
 *To be updated*
 
 ### March 2021
-***Updating***
 
 Files: [Exercises March 2021](https://github.com/0oTedo0/Leetcode-Exercises/tree/main/Daily%20Exercises/Mar%202021)
 
