@@ -9,7 +9,6 @@ public:
         return ans;
     }
     void dfs(vector<int>& nums,int index){
-        if (index > nums.size()) return;
         ans.push_back(path);
         for (int i = index; i < nums.size(); ++i) {
             if (i != index && nums[i] == nums[i - 1]) continue;
