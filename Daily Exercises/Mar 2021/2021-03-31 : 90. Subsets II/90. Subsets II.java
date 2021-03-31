@@ -8,7 +8,6 @@ class Solution {
         return ans;
     }
     public void dfs(int[] nums,int index){
-        if (index > nums.length) return;
         ans.add(new ArrayList<>(path));
         for (int i = index; i < nums.length; ++i) {
             if (i != index && nums[i] == nums[i - 1]) continue;
